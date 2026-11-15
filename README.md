@@ -1,6 +1,6 @@
 # Robocode FAEX 2026 — robô `Divostroyer` 💗
 # Feito por - Ana - 2026
-# Utilizado Claude/Cursor
+## Utilizado Claude/Cursor
 
 Robô para a Guerra de Robôs Digitais FAEX 2026 (formato **Melee**, arena 800x600).
 
